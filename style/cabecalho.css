@@ -1,14 +1,15 @@
 .menu {
-    margin: 10px 10px
+    margin: 20px;
 }
 
 .cabecalho__menu-hamburger {
-    width: 24px;
-    height: 24px;
-    background-image: url("../assets/menu-hamburguer.png");
+    width: 32px;
+    height: 32px;
+    background-image: url("../assets/menu-aberto.png");
     display: inline-block;
     background-repeat: no-repeat;
     background-position: center;
+    margin-bottom: 0.7em;
 }
 
 .lista-menu  {
